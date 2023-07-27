@@ -39,3 +39,4 @@ _To be added_
 
 [comment]: <> (Resources used to make this)
 [comment]: <> (https://www.markdownguide.org/basic-syntax/)
+[comment]: <> (https://www.linkedin.com/pulse/how-actors-can-stay-productive-during-strike-zach-gray)
