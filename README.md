@@ -1,4 +1,4 @@
-# Awesome Acting
+# Awesome Acting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of acting resources. (Feel free to add your suggestions through submitting pull-requests or issues.)
 
 > Acting is magical. Change your look and your attitude, and you can be anyone. ~Alicia Witt
