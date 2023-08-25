@@ -28,9 +28,11 @@ _Books that focus on a specialized skill for actors._
 - [Actions: The Actor's Thesaurus](https://www.amazon.com/Actions-Actors-Thesaurus-Marina-Caldarone/dp/0896762521) by Marina Caldarone and Maggie Lloyd-Williams (to know the action characters are sending)
 
 ## Scripts
-_Use the following scripts to analyze characters and scene, or practice your work._
+_Use the following script databases to analyze characters and scene, or practice your work._
 - [ScriptSlug](https://www.scriptslug.com/)
 - [StageMilk practice scripts](https://www.stagemilk.com/practice-scripts-for-actors/) (Contains screen, theatre, A/B, and showreel scripts)
+- [SimplyScripts](https://www.simplyscripts.com/) (Contains movie, tv, unproduced, radio, anime, and oscar scripts)
+- [TelevisionPilot](https://thetelevisionpilot.com/)
 - Write your own
 
 
