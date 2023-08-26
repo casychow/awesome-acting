@@ -33,6 +33,7 @@ _Use the following script databases to analyze characters and scene, or practice
 - [StageMilk practice scripts](https://www.stagemilk.com/practice-scripts-for-actors/) (Contains screen, theatre, A/B, and showreel scripts)
 - [SimplyScripts](https://www.simplyscripts.com/) (Contains movie, tv, unproduced, radio, anime, and oscar scripts)
 - [TelevisionPilot](https://thetelevisionpilot.com/)
+- [TheScriptLab](https://thescriptlab.com/)
 - Write your own
 
 
