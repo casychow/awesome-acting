@@ -23,6 +23,15 @@ _Books recommended by acting teachers and coaches that discuss the fundamental c
 - [Respect for Acting](https://www.amazon.com/Respect-Acting-Uta-Hagen/dp/0025473905) by Uta Hagen
 - [A Challenge for the Actor](https://www.amazon.com/Challenge-Actor-Uta-Hagen/dp/0684190400) by Uta Hagen (Contains acting exercises for home practice)
 - [Acting for the Camera](https://www.amazon.com/Acting-Camera-Revised-Tony-Barr/dp/0060928190) by Tony Barr
+- Sanford Meisner on Acting
+- The Art of Acting by Stella Adler
+- Stella Adler on Ibsen, Strindberg, and Chekov
+- An Actor Prepares by Constantin Stanislavski
+
+[comment]: <> (Stella Adler)
+[comment]: <> (Lee Strausberg)
+[comment]: <> (Constantin Stanislavski)
+[comment]: <> (Constantin Stanislavski books)
 
 ### Specialized Books
 _Books that focus on a specialized skill for actors._
