@@ -20,13 +20,15 @@ A curated list of acting resources. (Feel free to add your suggestions through s
 ## Books
 ### General Books
 _Books recommended by acting teachers and coaches that discuss the fundamental concepts of acting and contain acting exercises._
-- [Respect for Acting](https://www.amazon.com/Respect-Acting-Uta-Hagen/dp/0025473905) by Uta Hagen
 - [A Challenge for the Actor](https://www.amazon.com/Challenge-Actor-Uta-Hagen/dp/0684190400) by Uta Hagen (Contains acting exercises for home practice)
 - [Acting for the Camera](https://www.amazon.com/Acting-Camera-Revised-Tony-Barr/dp/0060928190) by Tony Barr
 - Sanford Meisner on Acting
 - The Art of Acting by Stella Adler
 - Stella Adler on Ibsen, Strindberg, and Chekov
 - An Actor Prepares by Constantin Stanislavski
+- Audition by Michael Shurtleff
+- Meisner on Acting by Sanford Meisner
+- Building a Character by Constantin Stanislavski
 
 [comment]: <> (Stella Adler)
 [comment]: <> (Lee Strausberg)
@@ -54,6 +56,7 @@ _Use the following script databases to analyze characters and scene, or practice
 - [The Television Pilot](https://thetelevisionpilot.com/)
 - [The Script Lab](https://thescriptlab.com/)
 - [Screenplayed](https://screenplayed.com/)
+- [Indie Film Hustle](https://indiefilmhustle.com/free-screenplays-download/) (Oscar Winners, Nominees, and Contending Screenplays from 2013-Present)
 - Write your own
 
 
@@ -66,6 +69,7 @@ _Easy to use video editing software to edit self-tape videos._
 - [Camtasia](https://www.techsmith.com/video-editor.html) (Easy to use)
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (Freemium)
 - [OpenShot](https://www.openshot.org/) (Open Source)
+- [InVideo](https://invideo.io/) (Freemium)
 
 ### PC PDF Editing Software
 _Easy to use software on personal computers (eg. desktops, laptops) to view and annotate PDF files._
