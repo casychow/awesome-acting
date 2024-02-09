@@ -68,6 +68,8 @@ _Use the following script databases to analyze characters and scene, or practice
 - [The Daily Script](https://www.dailyscript.com/index.html)
 - [Daily Actor](https://www.dailyactor.com/screenplays/)
 - [Scriptologist](http://www.scriptologist.com/Directory/Filmmaking/Screenplays/screenplays.html)
+- [TV Writing](https://sites.google.com/site/tvwriting/home) (Various tv scripts across the years)
+- [Screenplays](https://screenplays.io/) (Catalog)
 - Write your own
 
 
