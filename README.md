@@ -70,6 +70,7 @@ _Use the following script databases to analyze characters and scene, or practice
 - [Scriptologist](http://www.scriptologist.com/Directory/Filmmaking/Screenplays/screenplays.html)
 - [TV Writing](https://sites.google.com/site/tvwriting/home) (Various tv scripts across the years)
 - [Screenplays](https://screenplays.io/) (Catalog)
+- [Young Screenwriters](https://www.youngscreenwriters.com/resources) (Large script vault)
 - Write your own
 
 
